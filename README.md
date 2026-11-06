@@ -68,6 +68,9 @@ This project is part of my professional portfolio.
 ### SLA Performance by Activity
 ![Activity Performance](screenshots/SLA%20Performance%20by%20Activity%20Chart.png)
 
+### System Workflow
+![SLA Radar Workflow](screenshots/SLA_Radar_Workflow.png)
+
 ### Overall SLA Summary
 ![Overall SLA Summary](screenshots/SLA%20Activity%20Compliance%20Summary.png)
 
