@@ -62,14 +62,15 @@ This project is part of my professional portfolio.
 
 *The following screenshots use illustrative sample data.*
 
+
+### System Workflow
+![SLA Radar Workflow](screenshots/SLA_Radar_Workflow.png)
+
 ### SLA Performance by Department
 ![Department Performance](screenshots/SLA%20Exceedance%20by%20Department.png)
 
 ### SLA Performance by Activity
 ![Activity Performance](screenshots/SLA%20Performance%20by%20Activity%20Chart.png)
-
-### System Workflow
-![SLA Radar Workflow](screenshots/SLA_Radar_Workflow.png)
 
 ### Overall SLA Summary
 ![Overall SLA Summary](screenshots/SLA%20Activity%20Compliance%20Summary.png)
