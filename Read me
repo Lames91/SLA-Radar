@@ -63,13 +63,13 @@ This project is part of my professional portfolio.
 *The following screenshots use illustrative sample data.*
 
 ### SLA Performance by Department
-![Department Performance](screenshots/sla-department-performance.png)
+![Department Performance](screenshots/SLA%20Exceedance%20by%20Department.png)
 
 ### SLA Performance by Activity
-![Activity Performance](screenshots/sla-activity-performance.png)
+![Activity Performance](screenshots/SLA%20Performance%20by%20Activity%20Chart.png)
 
 ### Overall SLA Summary
-![Overall SLA Summary](screenshots/sla-overall-summary.png)
+![Overall SLA Summary](screenshots/SLA%20Activity%20Compliance%20Summary.png)
 
 The source code, internal configurations, and original operational data are proprietary and are not publicly available.
 
