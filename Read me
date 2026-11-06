@@ -58,6 +58,18 @@ Developed as an internal operational automation solution, with a configurable de
 ## Project Availability
 
 This project is part of my professional portfolio.
+## Project Screenshots
+
+*The following screenshots use illustrative sample data.*
+
+### SLA Performance by Department
+![Department Performance](screenshots/sla-department-performance.png)
+
+### SLA Performance by Activity
+![Activity Performance](screenshots/sla-activity-performance.png)
+
+### Overall SLA Summary
+![Overall SLA Summary](screenshots/sla-overall-summary.png)
 
 The source code, internal configurations, and original operational data are proprietary and are not publicly available.
 
